@@ -1,0 +1,11 @@
+streamlit==1.32.2
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+tensorflow-cpu==2.16.1
+pyttsx3==2.90
+matplotlib==3.8.4
+setuptools==68.2.2
+wheel==0.42.0
+protobuf==4.25.3
+h5py==3.10.0
+Pillow==10.2.0
